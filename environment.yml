@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - bokeh
+  - pip
+  - pip:
+    - nbgitpuller
+    - pandas
+    - matplotlib
