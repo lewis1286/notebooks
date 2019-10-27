@@ -12,4 +12,6 @@ your browser, click [here](https://mybinder.org/v2/gh/lewis1286/notebooks/master
 Here we play with a (hopefully) intuitive way to understand Fourier transforms
 and coefficients.
 
-
+## Boids
+Here we implement a boids flocking algorithm and visualize, play around with
+the variables.
